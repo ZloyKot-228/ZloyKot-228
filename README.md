@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @ZloyKot-228
 - 👀 I’m interested in ~~🦊Furry Femboys🐺~~, Rust/C++ programming
 - 🌱 I’m currently learning Rust and C++
-- 💞️ I’m looking to collaborate on \[your text here\]
+- 💞️ I’m looking to collaborate on your mother
 - 📫 How to reach me: you shouldn't
-- 😄 Pronouns: \[your text here\]
-- ⚡ Fun fact: \[your text here\]
+- ⚡ Fun fact: I have 4 children in my basement!
 
 <!---
 ZloyKot-228/ZloyKot-228 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
